@@ -1,4 +1,4 @@
 JHK My First website 
-link: https://almizanshimul.github.io/JHK/  
+link: [https://almizanshimul.github.io/JHK/](https://almizanshimul.github.io/JHK/)
 Full Site preview :  
-<img src="img/full image.jpg">
+![full image preview](img/full image.jpg)
