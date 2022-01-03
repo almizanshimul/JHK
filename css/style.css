@@ -17,3 +17,7 @@
     background: green;
     color: white;
 }
+.full{
+    display: flex;
+    flex-wrap: wrap;
+}
